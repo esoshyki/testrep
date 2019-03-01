@@ -1,5 +1,5 @@
 ## My summary
-![Me](http://shyki.pythonanywhere.com/static/img/profile.jpg)
+![Me](http://shyki.pythonanywhere.com/static/img/profile.jpg =600х400)
 
 1. **NAME:** Dzmitriy Faryna
 
