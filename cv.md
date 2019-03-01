@@ -1,5 +1,5 @@
 ## My summary
-<img src="http://shyki.pythonanywhere.com/static/img/profile.jpg" alt="alt Me" width="600" height="400">
+<img src="https://pp.userapi.com/c629300/v629300649/16772/hLLAxVh5NVw.jpg" alt="Me" width="600" height="400">
 
 1. **NAME:** Dzmitriy Faryna
 
