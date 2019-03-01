@@ -1,5 +1,5 @@
 ## My summary
-![Me](http://shyki.pythonanywhere.com/static/img/profile.jpg | width=400)
+<img src="http://shyki.pythonanywhere.com/static/img/profile.jpg" alt="alt Me" width="600" height="400">
 
 1. **NAME:** Dzmitriy Faryna
 
